@@ -1,0 +1,34 @@
+---
+permalink: 2018-03-30-recipetips.com-1231517008.html
+original: http://www.recipetips.com/recipe-cards/t--3158/grilled-turkey-tenderloins.asp
+domain: recipetips.com
+title: 'Grilled Turkey Tenderloins Recipe'
+image: http://files.recipetips.com/images/recipe/poultry/marinated_turkey_tenderloin.jpg
+date: 2018-03-30 04:18:32
+category: cuisine
+translations: 
+ - 'es'
+ - 'de'
+ - 'ru'
+ - 'ja'
+ - 'fr'
+ - 'it'
+ - 'zh-CN'
+ - 'zh-TW'
+ - 'ar'
+ - 'pt'
+ - 'hi'
+ - 'fa'
+ - 'tr'
+ - 'id'
+ - 'nl'
+ - 'ms'
+ - 'sv'
+ - 'vi'
+ - 'pl'
+ - 'ko'
+ - 'no'
+ - 'da'
+ - 'hy'
+---
+
