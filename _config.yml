@@ -1,4 +1,5 @@
 timezone: Etc/GMT
 
-plugins:
-  - jekyll-feed
+keep_files: ['.html']
+
+limit_posts: 1000
